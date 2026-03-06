@@ -22,7 +22,7 @@ the SauceDemo e-commerce web application. Uses the **Page Object Model
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 qa-selenium-automation/
 │
 ├── conftest.py               ← Browser setup/teardown fixtures
@@ -38,7 +38,7 @@ qa-selenium-automation/
     ├── test_login.py          ← 5 login/auth test cases
     ├── test_products.py       ← 6 product & cart test cases
     └── test_checkout.py       ← 3 checkout test cases
-\`\`\`
+```
 
 ---
 
